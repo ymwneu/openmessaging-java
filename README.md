@@ -1,5 +1,5 @@
 ## ![logo](assets/images/logo-color.png)
-
+## 3
 [![Build Status](https://travis-ci.org/openmessaging/openmessaging-java.svg?branch=master)](https://travis-ci.org/openmessaging/openmessaging-java) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.openmessaging/openmessaging-api/badge.svg)](http://search.maven.org/#search%7Cga%7C1%7Copenmessaging) [![Slack chat](https://img.shields.io/badge/chat-on%20slack-green.svg)](https://openmessaging.herokuapp.com/) [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 ### A vendor-neutral open standard for distributed messaging and streaming
